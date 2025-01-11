@@ -15,7 +15,7 @@ Each day, I’ll:
 
 ---
 
-## 🗂️ Repository Structure  
+## 🗂️ Repository Structure.  
 
 Here’s how the repository is organized:  
 
